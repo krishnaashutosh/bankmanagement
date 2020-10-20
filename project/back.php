@@ -31,7 +31,7 @@ $r=mysqli_query($con, $q);
            
            <div  >
                 <ul class="navbar-nav mr-auto">
-                    <li class="nav-item active"><a class="nav-link" href="bankingindex.php"><span class="fa fa-home fa-lg"></span> Home</a></li>
+                    <li class="nav-item active"><a class="nav-link" href="index.php"><span class="fa fa-home fa-lg"></span> Home</a></li>
                     
                 </ul> 
                   
@@ -57,7 +57,7 @@ $r=mysqli_query($con, $q);
     	
     	<div class=" col-12 col-sm-5 ml-2 ">
     		<div >
-    			<h3 class="d-flex justify-content-center"><a href="bankingindex.php"><button type="button" class="btn btn-lg btn-primary">Go to Home Page</button></a></h3>
+    			<h3 class="d-flex justify-content-center"><a href="index.php"><button type="button" class="btn btn-lg btn-primary">Go to Home Page</button></a></h3>
     		</div>
     		
     	</div>

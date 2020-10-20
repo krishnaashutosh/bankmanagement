@@ -30,7 +30,7 @@ $r=mysqli_query($con, $q);
             
            
            <div>
-                <a class="navbar-brand mr-auto" href="bankingindex.php"><span class="fa fa-home fa-lg"></span>Home</a>
+                <a class="navbar-brand mr-auto" href="index.php"><span class="fa fa-home fa-lg"></span>Home</a>
                   
                 </div>           
         </div>
@@ -138,7 +138,7 @@ $r=mysqli_query($con, $q);
                 <div class="col-4 offset-1 col-sm-2 ">
                      <h5>Links</h5>
                     <ul class="list-unstyled">
-                        <li ><a class="fa fa-home" href="bankingindex.php">Home</a></li>
+                        <li ><a class="fa fa-home" href="index.php">Home</a></li>
                                             
                     </ul>
                 </div>
